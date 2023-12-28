@@ -13,4 +13,9 @@ describe('Erick simple google searches', () => {
   it('Second search', () => {
     cy.get('[name="q"]').type(`erick9025{enter}`)
   })  
+
+  it('Third search', () => {
+    cy.get('[name="q"]').type(`NFL games{enter}`)
+  })  
+
 })
