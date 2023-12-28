@@ -1,0 +1,28 @@
+{
+  "name": "cypress-e2e-framework",
+  "version": "1.0.0",
+  "description": "Erick",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erick9025/CypressFirst.git"
+  },
+  "keywords": [
+    "e2e",
+    "automation",
+    "cypress"
+  ],
+  "author": "Erick Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erick9025/CypressFirst/issues"
+  },
+  "homepage": "https://github.com/erick9025/CypressFirst#readme",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}
